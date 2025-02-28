@@ -8,5 +8,5 @@ export default defineConfig({
     applyBaseStyles: false
   })],
   output: 'static',
-  base: '/main-portfolio-github/',
+  base: '/main-portfolio-github',
 });
