@@ -2,7 +2,7 @@
   "name": "minimalist-portfolio-json",
   "type": "module",
   "version": "0.0.1",
-  "homepage": "https://isilzulalguner.github.io/main-portfolio/",
+  "homepage": "https://isilzulalguner.github.io/main-portfolio-github/",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

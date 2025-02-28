@@ -5,5 +5,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   output: 'static',
-  base: '/main-portfolio/',
+  base: '/main-portfolio-github/',
 });
